@@ -85,7 +85,7 @@
     <version.com.google.guava.failureaccess>1.0.1</version.com.google.guava.failureaccess>
     <version.com.google.inject.guice>4.0</version.com.google.inject.guice>
     <version.com.google.gwt>2.9.0</version.com.google.gwt>
-    <version.org.google.gwt-charts>0.9.9</version.org.google.gwt-charts>
+    <version.org.google.gwt-charts>0.9.10</version.org.google.gwt-charts>
     <version.com.google.gwt.gwtmockito>1.1.9</version.com.google.gwt.gwtmockito>
     <version.com.google.jsinterop.base>1.0.0</version.com.google.jsinterop.base>
     <version.com.google.jsinterop.annotations>2.0.0</version.com.google.jsinterop.annotations>
